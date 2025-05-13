@@ -1,0 +1,45 @@
+\usepackage[utf8]{inputenc}%codification of the document
+\usepackage[spanish]{babel}
+\usepackage{fancyhdr}%pie pagina
+\usepackage{lastpage}
+\usepackage{graphicx} %agregar imagenes
+\usepackage[document]{ragged2e} %alinear texto
+\usepackage{amsmath} %insentar formulas
+\numberwithin{equation}{section} % para lista las ecuaciones por cada seccion Ej 1.1
+\usepackage{caption}
+\usepackage[hidelinks]{hyperref}
+\usepackage{float}
+\usepackage{multirow} %generacion de tablas https://www.tablesgenerator.com/
+%forma para generar nuevas subsubsub secciones con titlesec, 
+%cambiando el formato de \paragraph 
+\usepackage{titlesec}
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+%%%%%
+\usepackage[export]{adjustbox} %%posicionamiento de imagenes
+\usepackage[shortlabels]{enumitem} % para enumerar con letras
+%\begin{enumerate}[a)] % a), b), c), ...
+%\item
+%\end{enumerate}
+\usepackage[table,xcdraw]{xcolor} %color en las celdas
+\usepackage{pdfpages} % para importar pdf
+% \includepdf[pagecommand=\subsection{blub}]{path.pdf} ingresa un pdf en una seccion 
+% \includepdf[pagecommand={}]{path.pdf} ingresa un pdf sin perder el numero de pagina
+% \includepdf[]{path.pdf} se pierde el numero de pagina
+%%%%%
+%%Para enumerar con puntos 
+%% Ej : 1
+%%      2
+%%          2.1
+%%          2.2
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
+\renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}}
+
+
+\usepackage{chngcntr}           %lista las figuras dentro de una seccion
+\counterwithin{figure}{section} %necesario para llevar la cuenta de figuras en una seccion
+\usepackage{subcaption}         %para tener subfiguras

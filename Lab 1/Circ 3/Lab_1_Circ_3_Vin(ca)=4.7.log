@@ -1,0 +1,40 @@
+Circuit: * H:\Mi unidad\#Facultad\4to\Sintesis de redes activas\2023\Laboratorio\Lab 1\Circ 3\Lab_1_Circ_3_Vin(ca)=4.7.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 8.61953
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 8.47038
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Tue Nov 26 18:55:26 2024
+Total elapsed time: 1.758 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4441
+traniter = 2909
+tranpoints = 1312
+accept = 1221
+rejected = 91
+matrix size = 59
+fillins = 267
+solver = Normal
+Matrix Compiler1: 24.00 KB object code size  9.4/5.0/[1.7]
+Matrix Compiler2: 9.50 KB object code size  3.1/2.4/[0.9]
+

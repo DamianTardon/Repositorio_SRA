@@ -1,0 +1,21 @@
+Circuit: * H:\Mi unidad\#Facultad\4to\Sintesis de redes activas\2023\Laboratorio\Lab 1\Circ 4\Lab_1_Circ_4_Vss=0+Vcc=10+Vin=seno.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Nov 27 21:22:44 2024
+Total elapsed time: 0.178 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2575
+traniter = 2562
+tranpoints = 1169
+accept = 1129
+rejected = 40
+matrix size = 32
+fillins = 38
+solver = Normal
+Matrix Compiler1: 3.25 KB object code size  1.5/0.6/[0.3]
+Matrix Compiler2: 3.12 KB object code size  0.5/0.8/[0.3]
+

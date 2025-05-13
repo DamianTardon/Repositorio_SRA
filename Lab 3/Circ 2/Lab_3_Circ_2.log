@@ -1,0 +1,4 @@
+Circuit: * H:\Mi unidad\#Facultad\4to\Sintesis de redes activas\2023\Laboratorio\Lab 3\Sim 2\Lab_3_Circ_2.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu2 n002 v_01 vcc vss v_02 lm6181

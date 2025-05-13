@@ -1,0 +1,21 @@
+Circuit: * H:\Mi unidad\#Facultad\4to\Sintesis de redes activas\2023\Laboratorio\Lab 2\Circ 2 Ri=100k\Lab_2_Circ_1_Ri=100k+Error DC.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Jan 05 23:05:08 2025
+Total elapsed time: 0.170 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2095
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 32
+fillins = 47
+solver = Normal
+Matrix Compiler1: 4.03 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 3.39 KB object code size  0.2/0.3/[0.2]
+

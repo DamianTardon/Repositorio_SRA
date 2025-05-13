@@ -1,0 +1,12 @@
+Vos = 2mV
+
+Ibias typ = 45 nA
+Ibias max = 500 nA
+
+Slew Rate = 0.4 V/us (VCC = 15V, VI = 0.5 to 3V, RL = 2 kΩ, CL = 100 pF)
+            0.3 V/us (VCC = 5V)
+            0.5 V/us (           VI =±10 V,      RL = 1 MΩ, CL = 30 pF)
+
+RRMC = 	70dB
+	75dB
+	80dB
