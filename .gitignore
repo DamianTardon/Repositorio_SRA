@@ -1,0 +1,7 @@
+# Lista de archivos a ignorar
+materiales.docx
+AO REAL - Notas de Clase _v-2011.4_.pdf
+*.lnk
+
+# Lista de carpetas a ignorar
+Ejemplos/
