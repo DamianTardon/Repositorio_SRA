@@ -5,3 +5,5 @@ AO REAL - Notas de Clase _v-2011.4_.pdf
 
 # Lista de carpetas a ignorar
 Ejemplos/
+.venv/
+Datasheet/
