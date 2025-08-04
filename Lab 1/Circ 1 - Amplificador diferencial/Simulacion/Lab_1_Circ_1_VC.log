@@ -1,0 +1,77 @@
+Circuit: * H:\Mi unidad\#Facultad\4to\Sintesis de redes activas\2023\Laboratorio\Lab 1\Circ 1\Lab_1_Circ_1_VC.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 8.61953
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 8.47038
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:    d:u2:p      d:u2:ln     d:u2:lp     d:u2:e      d:u2:c
+Model:    u2:dx       u2:dx       u2:dx       u2:dx       u2:dx
+Id:     -2.00e-11   -3.99e-11   -4.01e-11    8.27e-06   -1.79e-11
+Vd:     -2.00e+01   -3.99e+01   -4.01e+01    5.96e-01   -1.79e+01
+Req:     1.00e+12    1.00e+12    1.00e+12    3.13e+03    1.00e+12
+CAP:     0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+
+Name:    d:u1:p      d:u1:ln     d:u1:lp     d:u1:e      d:u1:c
+Model:    u1:dx       u1:dx       u1:dx       u1:dx       u1:dx
+Id:     -2.00e-11   -3.95e-11   -4.05e-11    8.27e-06   -1.79e-11
+Vd:     -2.00e+01   -3.95e+01   -4.05e+01    5.96e-01   -1.79e+01
+Req:     1.00e+12    1.00e+12    1.00e+12    3.13e+03    1.00e+12
+CAP:     0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+
+                        --- Bipolar Transistors ---
+Name:     q:u2:2      q:u2:1      q:u1:2      q:u1:1
+Model:     u2:qx       u2:qx       u1:qx       u1:qx
+Ib:      -4.19e-08    1.88e-12   -4.19e-08    6.87e-12
+Ic:      -1.05e-05   -1.25e-12   -1.05e-05   -3.75e-12
+Vbe:     -6.03e-01    6.21e-01   -6.03e-01    3.12e+00
+Vbc:     -8.33e-02    1.25e+00   -8.33e-02    3.75e+00
+Vce:     -5.19e-01   -6.32e-01   -5.19e-01   -6.32e-01
+BetaDC:   2.50e+02   -6.69e-01    2.50e+02   -5.46e-01
+Gm:       4.05e-04    1.14e-24    4.05e-04    1.24e-66
+Rpi:      6.18e+05    1.00e+12    6.18e+05    1.00e+12
+Rx:       0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Ro:       1.29e+12    3.56e+34    1.29e+12    3.26e+76
+Cbe:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbc:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cjs:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+BetaAC:   2.50e+02    1.14e-12    2.50e+02    1.24e-54
+Cbx:      0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Ft:       0.00e+00    0.00e+00    0.00e+00    0.00e+00
+
+
+
+Date: Fri Nov 08 01:33:40 2024
+Total elapsed time: 25.462 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1363
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 56
+fillins = 215
+solver = Normal
+Matrix Compiler1: 17.41 KB object code size
+Matrix Compiler2: 8.36 KB object code size  0.6/0.6/[0.3]
+

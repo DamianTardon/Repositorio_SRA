@@ -1,0 +1,107 @@
+Circuit: * D:\Repositorios Git\SRA\Lab 3\Circ 2 - VFA-CFA\Lab_3_Circ_2-Respuesta al escalon 2.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v_in1.  Increasing period to 10
+Limiting fall time of source v_in1 to 1.95399e-015
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.35425
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.23101
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 5.2119
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 88.6364%
+vernier = 0.0625
+Source Step = 87.8995%
+Source Step = 87.9291%
+Source Step = 87.9587%
+Source Step = 87.9883%
+Source Step = 88.0179%
+vernier = 0.00146484
+Source Step = 88.0549%
+Source Step = 88.0993%
+Source Step = 88.1436%
+Source Step = 88.188%
+Source Step = 88.2324%
+vernier = 0.00219727
+Source Step = 88.2857%
+Source Step = 88.3523%
+Source Step = 88.4189%
+Source Step = 88.4854%
+Source Step = 88.552%
+vernier = 0.0032959
+Source Step = 88.6286%
+Source Step = 88.7285%
+Source Step = 88.8283%
+Source Step = 88.9282%
+Source Step = 89.0281%
+vernier = 0.00494385
+Source Step = 89.138%
+Source Step = 89.2878%
+Source Step = 89.4376%
+Source Step = 89.5874%
+Source Step = 89.7372%
+vernier = 0.00741577
+Source Step = 89.8945%
+Source Step = 90.1192%
+Source Step = 90.344%
+Source Step = 90.5687%
+Source Step = 90.7934%
+Source Step = 91.0181%
+vernier = 0.0111237
+Source Step = 91.3552%
+Source Step = 91.6923%
+Source Step = 92.0294%
+Source Step = 92.3664%
+Source Step = 92.7035%
+vernier = 0.0166855
+Source Step = 93.1923%
+Source Step = 93.6979%
+Source Step = 94.2035%
+Source Step = 94.7092%
+Source Step = 95.2148%
+vernier = 0.0250282
+Source Step = 95.9226%
+Source Step = 96.6811%
+Source Step = 97.4395%
+Source Step = 98.1979%
+Source Step = 98.9564%
+vernier = 0.0375423
+Source Step = 99.9803%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sun Aug 03 15:02:36 2025
+Total elapsed time: 0.383 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6261
+traniter = 2301
+tranpoints = 1102
+accept = 1090
+rejected = 12
+matrix size = 92
+fillins = 239
+solver = Normal
+Thread vector: 4.3/4.5[1] 2.7/1.7[2] 2.7/1.6[2] 0.3/0.9[1]  2592/500
+Matrix Compiler1: 14.27 KB object code size  2.5/1.4/[0.5]
+Matrix Compiler2: 12.05 KB object code size  0.9/1.2/[0.4]
+

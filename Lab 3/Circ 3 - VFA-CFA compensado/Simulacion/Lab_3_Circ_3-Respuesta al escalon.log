@@ -1,0 +1,85 @@
+Circuit: * D:\Repositorios Git\SRA\Lab 3\Circ 3 - VFA-CFA compensado\Lab_3_Circ_3-Respuesta al escalon.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v_in.  Increasing period to 10
+Limiting fall time of source v_in to 1.95399e-015
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 6.68666
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 6.84217
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 86.3636%
+Source Step = 87.938%
+Source Step = 88.0563%
+Source Step = 88.1747%
+Source Step = 88.2931%
+Source Step = 88.4115%
+vernier = 0.00585938
+Source Step = 88.5535%
+Source Step = 88.7311%
+Source Step = 88.9086%
+Source Step = 89.0862%
+Source Step = 89.2637%
+vernier = 0.00878906
+Source Step = 89.4679%
+Source Step = 89.7343%
+Source Step = 90.0006%
+Source Step = 90.2669%
+Source Step = 90.5333%
+vernier = 0.0131836
+Source Step = 90.8262%
+Source Step = 91.2257%
+Source Step = 91.6252%
+Source Step = 92.0247%
+Source Step = 92.4242%
+vernier = 0.0197754
+Source Step = 92.8437%
+Source Step = 93.443%
+Source Step = 94.0422%
+Source Step = 94.6415%
+Source Step = 95.2407%
+Source Step = 95.84%
+vernier = 0.0296631
+Source Step = 96.7389%
+Source Step = 97.6378%
+Source Step = 98.5366%
+Source Step = 99.4355%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sun Aug 03 00:31:30 2025
+Total elapsed time: 0.356 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5530
+traniter = 2206
+tranpoints = 1080
+accept = 1074
+rejected = 6
+matrix size = 93
+fillins = 211
+solver = Normal
+Thread vector: 8.0/6.2[2] 3.9/3.1[2] 2.4/1.5[2] 0.5/1.0[1]  2592/500
+Matrix Compiler1: 14.84 KB object code size  6.2/2.9/[1.2]
+Matrix Compiler2: 11.43 KB object code size  1.0/1.4/[0.7]
+
